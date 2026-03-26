@@ -1,4 +1,4 @@
-# DocuQuery-AI
+# DocuQuery AI
 
 DocuQuery-AI is a Flask web app that lets users upload PDFs, extract text from each page using a multimodal LLM, store embeddings, and ask questions grounded in the uploaded documents.
 
