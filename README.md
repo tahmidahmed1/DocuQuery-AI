@@ -14,7 +14,7 @@ DocuQuery-AI is a Flask web app that lets users upload PDFs, extract text from e
 
 - Python
 - Flask
-- OpenAI API (`gpt-4o` + `text-embedding-3-small`)
+- OpenAI API (`gpt` + `text-embedding`)
 - Pandas + NumPy
 - PyPDF2
 - pdf2image + Pillow
